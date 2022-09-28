@@ -13,7 +13,7 @@ Python external libraries used in the JN-files: **NumPy, Pandas, Matplotlib, Sea
 ## Repository Content
 | Project dir name | Project description | Technology stack | Project link |
 |:-----------------|:--------------------|:-----------------|:----------------|
-| DAproj02_-_credit-story-light-study_for-bank-loans-clients | описание | stack | https://github.com/SanSanychSeva/my-portfolio-in-DA-for-CV-in-RUS/tree/main/DAproj02_-_credit-story-light-study_for-bank-loans-clients |
+| DAproj02_-_credit-story-light-study_for-bank-loans-clients | описание | stack | <a href='https://github.com/SanSanychSeva/my-portfolio-in-DA-for-CV-in-RUS/tree/main/DAproj02_-_credit-story-light-study_for-bank-loans-clients'>DAproj02</a> |
 | DAproj03_-_real-estate-market-study_for-appartments-in-SPB | описание | stack | https://github.com/SanSanychSeva/my-portfolio-in-DA-for-CV-in-RUS/tree/main/DAproj03_-_real-estate-market-study_for-appartments-in-SPB |
 | DAproj04_-_EDA-and-hyposesis-check_for_telecom_CSP-fariffs | описание | stack | https://github.com/SanSanychSeva/my-portfolio-in-DA-for-CV-in-RUS/tree/main/DAproj04_-_EDA-and-hyposesis-check_for_telecom_CSP-fariffs |
 | DAproj05_-_video-games-market-EDA_for-gameshop_salesplan | описание | stack | https://github.com/SanSanychSeva/my-portfolio-in-DA-for-CV-in-RUS/tree/main/DAproj05_-_video-games-market-EDA_for-gameshop_salesplan |
