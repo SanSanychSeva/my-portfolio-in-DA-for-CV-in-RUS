@@ -1,5 +1,19 @@
 # my-portfolio-in-DA-for-CV-in-RUS
 
+## ENGLISH FOLLOWS
+Данный репозиторий включает набор проектов в Jupiter Notebook, выполненных мной самостоятельно во время 6-месячных онлайн курсов Яндекс.Практикум по Аналитике Данных в 2022 году.
+
+Целью создания данного репозитория является сбор Портфолио для поиска новых пазиций в области Аналитики Больших Данных.  Ссылка на данный репозиторий присутствует в моих резюме на сайтах кадровых агенств.
+
+Язык проектов - Русский.
+
+Язык программирования - Python 3.
+
+Используемые внешние библиотеки - **NumPy, Pandas, Matplotlib, Seaborn, SciPy, Plotly & Dash, SQLalchemy, GetOpt, Requests, BeautifulSoup**
+
+Краткое описание состава данного репозитория приведено в таблице ниже (после английской версии текста)
+
+## ENGLISH:
 This multiple projects repository keeps Jupiter Notebook (JN) projects fully done by me during 6 months of **Data Analyst hands-on courses by Yandex.Practicum** in 2022.
 
 Purpose of this repository: to collect the best examples of my skills in Data Analytics - as a **portfolio for my job hunting CVs**.
@@ -10,7 +24,7 @@ Language of the code in the JN-files: **Python 3**.
 
 Python external libraries used in the JN-files: **NumPy, Pandas, Matplotlib, Seaborn, SciPy, Plotly & Dash, SQLalchemy, GetOpt, Requests, BeautifulSoup**
 
-## Repository Content
+## Repository Content / Проектный состав данного репозитория
 | \# | Project (dir) name | Project description | Technology stack | Project dir link |
 |:---:|:------------|:--------------------|:-----------------|:----------------|
 | 01 | DAproj02_-_credit-story-light-study_for-bank-loans-clients | EDA for bank credit history dataset to establish relation between family status and in-time credit return with the goal to build creditability scoring for new clients | Python, Pandas | <a href='https://github.com/SanSanychSeva/my-portfolio-in-DA-for-CV-in-RUS/tree/main/DAproj02_-_credit-story-light-study_for-bank-loans-clients'>DAproj02</a> |
