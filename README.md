@@ -10,9 +10,14 @@ Language of the code in the files: **Python 3**.
 
 Python external libraries used in the files: **NumPy, Pandas, Matplotlib, Seaborn, SciPy, Plotly & Dash, SQLalchemy, GetOpt, Requests, BeautifulSoup**
 
-## Table of Content
-|------------------|---------------------|------------------|-----------------|
+## Repository Content
 | Project dir name | Project description | Technology stack | Project results |
 |:-----------------|:--------------------|:-----------------|:----------------|
-| DAproj02 - credit-story-light-study_for-bank-loans-clients | описание | stack | results |
-|------------------|---------------------|------------------|-----------------|
+| DAproj02_-_credit-story-light-study_for-bank-loans-clients | описание | stack | results |
+| DAproj03_-_real-estate-market-study_for-appartments-in-SPB | описание | stack | results |
+| DAproj04_-_EDA-and-hyposesis-check_for_telecom_CSP-fariffs | описание | stack | results |
+| DAproj05_-_video-games-market-EDA_for-gameshop_salesplan | описание | stack | results |
+| DAproj07_-_biz-metrics-EDA_for-global-shop-negative-PnL | описание | stack | results |
+| DAproj08_-_e2e-AB-test_for-revenue-grow-hypothesis_check | описание | stack | results |
+| DAproj09_-_GtM-business-consulting_for-new-restaurant | описание | stack | results |
+| DAproj10_-_sales-funnel-AB-test-analysis_for-internet-shop | описание | stack | results |
