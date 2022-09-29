@@ -9,7 +9,7 @@
 
 Язык программирования - Python 3.
 
-Используемые внешние библиотеки - **NumPy, Pandas, Matplotlib, Seaborn, SciPy, Plotly & Dash, SQLalchemy, GetOpt, Requests, BeautifulSoup**
+Используемые внешние библиотеки - **NumPy, Pandas, Matplotlib, Seaborn, SciPy, Plotly & Dash, SQLalchemy, GetOpt, Requests, JSON, BeautifulSoup**
 
 Краткое описание состава данного репозитория приведено в таблице ниже (после английской версии текста)
 
