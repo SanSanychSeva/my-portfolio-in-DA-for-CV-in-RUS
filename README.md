@@ -22,7 +22,7 @@ Language of the markdown text in the JN-files: **Russian**.
 
 Language of the code in the JN-files: **Python 3**.
 
-Python external libraries used in the JN-files: **NumPy, Pandas, Matplotlib, Seaborn, SciPy, Plotly & Dash, SQLalchemy, GetOpt, Requests, BeautifulSoup**
+Python external libraries used in the JN-files: **NumPy, Pandas, Matplotlib, Seaborn, SciPy, Plotly & Dash, SQLalchemy, GetOpt, Requests, JSON, BeautifulSoup**
 
 ## Repository Content / Проектный состав данного репозитория
 | \# | Project (dir) name | Project description | Technology stack | Project dir link |
