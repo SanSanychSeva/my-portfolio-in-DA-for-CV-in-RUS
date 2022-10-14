@@ -5,11 +5,11 @@
 
 Целью создания данного репозитория является сбор Портфолио для поиска новых пазиций в области Аналитики Больших Данных.  Ссылка на данный репозиторий присутствует в моих резюме на сайтах кадровых агенств.
 
-Язык проектов - Русский.
+Язык проектов - **Русский**.
 
-Язык программирования - Python 3.
+Язык программирования - **Python 3**.
 
-Используемые внешние библиотеки - **NumPy, Pandas, Matplotlib, Seaborn, SciPy, Plotly & Dash, SQLalchemy, GetOpt, Requests, JSON, BeautifulSoup**
+Используемые внешние библиотеки - **NumPy, Pandas, Matplotlib, Seaborn, SciPy, Plotly & Dash, SQLalchemy, GetOpt, Requests, JSON, BeautifulSoup, ScikitLearn(ML)**
 
 Краткое описание состава данного репозитория приведено в таблице ниже (после английской версии текста)
 
@@ -22,7 +22,7 @@ Language of the markdown text in the JN-files: **Russian**.
 
 Language of the code in the JN-files: **Python 3**.
 
-Python external libraries used in the JN-files: **NumPy, Pandas, Matplotlib, Seaborn, SciPy, Plotly & Dash, SQLalchemy, GetOpt, Requests, JSON, BeautifulSoup**
+Python external libraries used in the JN-files: **NumPy, Pandas, Matplotlib, Seaborn, SciPy, Plotly & Dash, SQLalchemy, GetOpt, Requests, JSON, BeautifulSoup, ScikitLearn(ML)**
 
 ## Repository Content / Проектный состав данного репозитория
 | \# | Project (dir) name | Project description | Technology stack | Project dir link |
@@ -36,3 +36,4 @@ Python external libraries used in the JN-files: **NumPy, Pandas, Matplotlib, Sea
 | 07 | DAproj09_-_GtM-business-consulting_for-new-restaurant | Business presentation for sponsors of a new startup, based on market research and EDA of Moscow restaurants dataset  | Python, NumPy, Pandas, Matplotlib, Seaborn, MS Power Point | <a href='https://github.com/SanSanychSeva/my-portfolio-in-DA-for-CV-in-RUS/tree/main/DAproj09_-_GtM-business-consulting_for-new-restaurant'>DAproj09</a> |
 | 08 | DAproj10_-_sales-funnel-AB-test-analysis_for-internet-shop | To check ground for the expectations of marketing for improvements and to clear fears of management about negative influence of new changes on clients of a food internet shop - based on A/B test results datasets| Python, NumPy, Pandas, Matplotlib, Seaborn | <a href='https://github.com/SanSanychSeva/my-portfolio-in-DA-for-CV-in-RUS/tree/main/DAproj10_-_sales-funnel-AB-test-analysis_for-internet-shop'>DAproj10</a> |
 | 09 | DAproj11_-_automated-dashboard_for-users-visits-to-ISP-site | e2e automation of data collection and pre-processing pipeline for marketing dashboard also developed here. <a href='https://public.tableau.com/views/DashboardDA49SevastyanovAA/DashboardDA49SevastyanovAA?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link'>Link to dashboard</a> | Pandas, SQLalchemy, Tableau Public | <a href='https://github.com/SanSanychSeva/my-portfolio-in-DA-for-CV-in-RUS/tree/main/DAproj11_-_automated-dashboard_for-users-visits-to-ISP-site'>DAproj11</a> |
+| 10 | DAproj12_-_ML-in-churn-prediction_for-gym-clients | application of ML tools to churn prediction for gym clients, prediction-model training and client clustering for target group detection in churn prevention | <a href='https://github.com/SanSanychSeva/my-portfolio-in-DA-for-CV-in-RUS/tree/main/DAproj12_-_ML-in-churn-prediction_for-gym-clients>DAproj12</a> |
