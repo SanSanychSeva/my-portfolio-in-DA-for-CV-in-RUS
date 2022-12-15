@@ -13,6 +13,10 @@
 
 Краткое описание состава данного репозитория приведено в таблице ниже (после английской версии текста)
 
+### Совместимость версий библиотек
+
+Файлы Jupiter Notebook были протестированы в окружении Anaconda - конфигурационный файл Anaconda добавлен в этот проект <a href='https://github.com/SanSanychSeva/my-portfolio-in-DA-for-CV-in-RUS/tree/main/Anaconda3_env_config'>здесь</a>.
+
 ## ENGLISH:
 This multiple projects repository keeps Jupiter Notebook (JN) projects fully done by me during 6 months of **Data Analyst hands-on courses by Yandex.Practicum** in 2022.
 
@@ -24,9 +28,9 @@ Language of the code in the JN-files: **Python 3**.
 
 Python external libraries used in the JN-files: **NumPy, Pandas, Matplotlib, Seaborn, SciPy, Plotly & Dash, SQLalchemy, GetOpt, Requests, JSON, BeautifulSoup, ScikitLearn(ML)**
 
-## Compatibility issues
+### Compatibility issues
 
-the Jupiter Notebook files in this project were run OK in the Anaconda environment - its backup is also provided in this project <a href=''>here</a>.
+the Jupiter Notebook files in this project were run OK in the Anaconda environment - its backup is also provided in this project <a href='https://github.com/SanSanychSeva/my-portfolio-in-DA-for-CV-in-RUS/tree/main/Anaconda3_env_config'>here</a>.
 
 ## Repository Content / Проектный состав данного репозитория
 | \# | Project (dir) name | Project description | Technology stack | Project dir link |
