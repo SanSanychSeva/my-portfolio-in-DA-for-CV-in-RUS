@@ -24,6 +24,10 @@ Language of the code in the JN-files: **Python 3**.
 
 Python external libraries used in the JN-files: **NumPy, Pandas, Matplotlib, Seaborn, SciPy, Plotly & Dash, SQLalchemy, GetOpt, Requests, JSON, BeautifulSoup, ScikitLearn(ML)**
 
+## Compatibility issues
+
+the Jupiter Notebook files in this project were run OK in the Anaconda environment - its backup is also provided in this project <a href=''>here</a>.
+
 ## Repository Content / Проектный состав данного репозитория
 | \# | Project (dir) name | Project description | Technology stack | Project dir link |
 |:---:|:------------|:--------------------|:-----------------|:----------------|
