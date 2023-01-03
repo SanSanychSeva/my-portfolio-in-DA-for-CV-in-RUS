@@ -1,7 +1,7 @@
 # my-portfolio-in-DA-for-CV-in-RUS
 
 ## ENGLISH FOLLOWS
-Данный репозиторий включает набор проектов в Jupiter Notebook, выполненных мной самостоятельно во время 6-месячных онлайн курсов Яндекс.Практикум по Аналитике Данных в 2022 году.
+Данный репозиторий включает набор проектов в Jupyter Notebook, выполненных мной самостоятельно во время 6-месячных онлайн курсов Яндекс.Практикум по Аналитике Данных в 2022 году.
 
 Целью создания данного репозитория является сбор Портфолио для поиска новых позиций в области Аналитики Больших Данных.  Ссылка на данный репозиторий присутствует в моих резюме на сайтах кадровых агенств.
 
@@ -15,10 +15,10 @@
 
 ### Совместимость версий библиотек
 
-Файлы Jupiter Notebook были протестированы в окружении Anaconda - конфигурационный файл Anaconda добавлен в этот проект <a href='https://github.com/SanSanychSeva/my-portfolio-in-DA-for-CV-in-RUS/tree/main/Anaconda3_env_config'>здесь</a>.
+Файлы Jupyter Notebook были протестированы в окружении Anaconda - конфигурационный файл Anaconda добавлен в этот проект <a href='https://github.com/SanSanychSeva/my-portfolio-in-DA-for-CV-in-RUS/tree/main/Anaconda3_env_config'>здесь</a>.
 
 ## ENGLISH:
-This multiple projects repository keeps Jupiter Notebook (JN) projects fully done by me during 6 months of **Data Analyst hands-on courses by Yandex.Practicum** in 2022.
+This multiple projects repository keeps Jupyter Notebook (JN) projects fully done by me during 6 months of **Data Analyst hands-on courses by Yandex.Practicum** in 2022.
 
 Purpose of this repository: to collect the best examples of my skills in Data Analytics - as a **portfolio for my job hunting CVs**.
 
@@ -30,7 +30,7 @@ Python external libraries used in the JN-files: **NumPy, Pandas, Matplotlib, Sea
 
 ### Compatibility issues
 
-the Jupiter Notebook files in this project were run OK in the Anaconda environment - its backup is also provided in this project <a href='https://github.com/SanSanychSeva/my-portfolio-in-DA-for-CV-in-RUS/tree/main/Anaconda3_env_config'>here</a>.
+the Jupyter Notebook files in this project were run OK in the Anaconda environment - its backup is also provided in this project <a href='https://github.com/SanSanychSeva/my-portfolio-in-DA-for-CV-in-RUS/tree/main/Anaconda3_env_config'>here</a>.
 
 ## Repository Content / Проектный состав данного репозитория
 | \# | Project (dir) name | Project description | Technology stack | Project dir link |
